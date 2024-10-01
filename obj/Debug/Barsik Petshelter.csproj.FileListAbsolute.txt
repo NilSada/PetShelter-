@@ -1,0 +1,11 @@
+C:\Users\Леонид\source\repos\Barsik Petshelter\Barsik Petshelter\bin\Debug\Barsik Petshelter.exe.config
+C:\Users\Леонид\source\repos\Barsik Petshelter\Barsik Petshelter\bin\Debug\Barsik Petshelter.exe
+C:\Users\Леонид\source\repos\Barsik Petshelter\Barsik Petshelter\bin\Debug\Barsik Petshelter.pdb
+C:\Users\Леонид\source\repos\Barsik Petshelter\Barsik Petshelter\obj\Debug\Barsik Petshelter.csproj.AssemblyReference.cache
+C:\Users\Леонид\source\repos\Barsik Petshelter\Barsik Petshelter\obj\Debug\Barsik Petshelter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Леонид\source\repos\Barsik Petshelter\Barsik Petshelter\obj\Debug\Barsik_Petshelter.Form1.resources
+C:\Users\Леонид\source\repos\Barsik Petshelter\Barsik Petshelter\obj\Debug\Barsik_Petshelter.Properties.Resources.resources
+C:\Users\Леонид\source\repos\Barsik Petshelter\Barsik Petshelter\obj\Debug\Barsik Petshelter.csproj.GenerateResource.cache
+C:\Users\Леонид\source\repos\Barsik Petshelter\Barsik Petshelter\obj\Debug\Barsik Petshelter.csproj.CoreCompileInputs.cache
+C:\Users\Леонид\source\repos\Barsik Petshelter\Barsik Petshelter\obj\Debug\Barsik Petshelter.exe
+C:\Users\Леонид\source\repos\Barsik Petshelter\Barsik Petshelter\obj\Debug\Barsik Petshelter.pdb
